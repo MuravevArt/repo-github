@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+new content
+=======
 edited
-Ну ты конечно
+>>>>>>> parent of ea66cee (change readme.md)
